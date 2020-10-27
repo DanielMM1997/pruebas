@@ -8,7 +8,7 @@
 /* Estilos para la cabecera de la pagina */
 .header {
     width: 100%;
-    display: flex;
+    display: block;
     background-color: #009DF5;
 }
 
